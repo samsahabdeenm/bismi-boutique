@@ -1,13 +1,34 @@
 # Bismi Boutique
 
-Bismi Boutique is a fashion boutique featuring women's clothing, modest wear and kids' apparel. This website version is a catalogue preview with sample product names, illustrative imagery and demo prices. Confirm all business and product details before launch.
+Bismi Boutique is an online fashion catalogue for women’s clothing, modest wear and kids’ apparel.
 
-## Website
-https://bismiboutique.online/
+Website: https://bismiboutique.online/
 
-## Departments
-- Women: three-piece sets, two-piece sets, shirts, kurtas, cotton wear, towels, burqa and burqa shawls.
-- Kids: girls' co-ord sets, boys' co-ord sets, T-shirts, track pants and socks.
+## Women’s collections
+- Three-piece sets
+- Two-piece sets
+- Shirts
+- Kurtas
+- Cotton wear
+- Towels
+- Burqa
+- Burqa shawls
 
-## Preview status
-Product images, names and prices are placeholders. Online checkout, payments, newsletter subscriptions, official email and social profiles are not connected. Review the Privacy Policy, Terms & Conditions, Shipping & Returns and Contact pages before launch.
+## Kids’ collections
+- Girls’ co-ord sets
+- Boys’ co-ord sets
+- T-shirts
+- Track pants
+- Socks
+
+## Product enquiry
+Product cards are designed to start a product-specific WhatsApp enquiry after the boutique’s official WhatsApp number is configured.
+
+## Important catalogue status
+Product names, images and prices are demo placeholders and must be replaced with confirmed boutique data. Online checkout, payments, newsletter subscriptions and official social profiles are not connected yet. The site has a no-return/no-exchange policy subject to rights that cannot legally be excluded.
+
+## Customer information
+- https://bismiboutique.online/contact.html
+- https://bismiboutique.online/shipping-returns.html
+- https://bismiboutique.online/privacy-policy.html
+- https://bismiboutique.online/terms-and-conditions.html
