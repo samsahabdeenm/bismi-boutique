@@ -25,7 +25,7 @@ Website: https://bismiboutique.online/
 Product cards are designed to start a product-specific WhatsApp enquiry after the boutique’s official WhatsApp number is configured.
 
 ## Important catalogue status
-Product names, images and prices are demo placeholders and must be replaced with confirmed boutique data. Online checkout, payments, newsletter subscriptions and official social profiles are not connected yet. The site has a no-return/no-exchange policy subject to rights that cannot legally be excluded.
+Product names, images and prices are demo placeholders and must be replaced with confirmed boutique data. There is no shopping cart and cash on delivery is not available. The intended order flow is Buy Now → WhatsApp → prepaid payment confirmation. Official WhatsApp/product links and payment method must be supplied and configured before ordering can go live. Newsletter subscriptions and official social profiles are not connected yet. The site has a no-return/no-exchange policy subject to rights that cannot legally be excluded.
 
 ## Customer information
 - https://bismiboutique.online/contact.html
