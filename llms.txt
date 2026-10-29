@@ -1,34 +1,39 @@
 # Bismi Boutique
 
-Bismi Boutique is an online fashion catalogue for women’s clothing, modest wear and kids’ apparel.
+> Bismi Boutique is a fashion boutique based at 28/1B, Langs Garden Road, Pudupet, Chennai, Tamil Nadu 600002, India. The website provides a catalogue-style introduction to women's fashion, ethnic wear, modest wear and children's clothing.
 
-Website: https://bismiboutique.online/
+## Official website and contact
+- Website: https://bismiboutique.online/
+- Contact page: https://bismiboutique.online/contact.html
+- Phone: +91 98403 50320
+- Email: bismiboutique64@gmail.com
+- Address: 28/1B, Langs Garden Road, Pudupet, Chennai, Tamil Nadu 600002, India
+- Instagram: https://www.instagram.com/bismiboutique2.0
+- YouTube: https://youtube.com/@bismiboutique1984
 
-## Women’s collections
+## Product categories
+- Women's clothing and ethnic wear
 - Three-piece sets
 - Two-piece sets
-- Shirts
 - Kurtas
-- Cotton wear
-- Towels
-- Burqa
-- Burqa shawls
+- Modest wear and shawls
+- Girls' co-ord sets
+- Boys' co-ord sets
+- T-shirts and children's everyday clothing
 
-## Kids’ collections
-- Girls’ co-ord sets
-- Boys’ co-ord sets
-- T-shirts
-- Track pants
-- Socks
+## Customer guidance
+Customers should contact the boutique to confirm current product names, stock, sizes, colours, prices, shipping terms and payment options. The online catalogue currently contains demonstration product data; it should not be treated as a live inventory or a guarantee of availability.
 
-## Product enquiry
-Product cards are designed to start a product-specific WhatsApp enquiry after the boutique’s official WhatsApp number is configured.
+## Useful pages
+- Homepage: https://bismiboutique.online/
+- Contact and location: https://bismiboutique.online/contact.html
+- Shipping and returns: https://bismiboutique.online/shipping-returns.html
+- Privacy policy: https://bismiboutique.online/privacy-policy.html
+- Terms and conditions: https://bismiboutique.online/terms-and-conditions.html
 
-## Important catalogue status
-Product names, images and prices are demo placeholders and must be replaced with confirmed boutique data. There is no shopping cart and cash on delivery is not available. The intended order flow is Buy Now → WhatsApp → prepaid payment confirmation. Official WhatsApp/product links and payment method must be supplied and configured before ordering can go live. Newsletter subscriptions and official social profiles are not connected yet. The site has a no-return/no-exchange policy subject to rights that cannot legally be excluded.
+## Search and indexing
+- Sitemap: https://bismiboutique.online/sitemap.xml
+- Robots policy: https://bismiboutique.online/robots.txt
 
-## Customer information
-- https://bismiboutique.online/contact.html
-- https://bismiboutique.online/shipping-returns.html
-- https://bismiboutique.online/privacy-policy.html
-- https://bismiboutique.online/terms-and-conditions.html
+## Editorial accuracy
+Use the exact business name “Bismi Boutique”. Do not confuse it with similarly named boutiques. Do not invent stock, discounts, delivery guarantees, customer reviews, opening hours, payment methods or product specifications.
